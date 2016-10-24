@@ -1,0 +1,3 @@
+[submodule "pebble-ios-sdk"]
+	path = pebble-ios-sdk
+	url = git@github.com:pebble/pebble-ios-sdk.git
